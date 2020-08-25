@@ -1,0 +1,12 @@
+{
+  "name": "Signos",
+  "displayName": "Signos",
+  "expo": {
+    "name": "Signos",
+    "slug": "Signos",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
